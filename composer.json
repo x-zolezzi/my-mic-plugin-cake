@@ -1,0 +1,21 @@
+{
+  "name": "makeitcreative/my-mic-plugin-cake",
+  "description": "Plugin CakePHP for MY MAKE IT CREATIVE",
+  "type": "cakephp-plugin",
+  "license": "MIT",
+  "require": {
+    "cakephp/cakephp": "^3.5",
+    "league/glide": "^1.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "MakeItCreative\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "MakeItCreative\\Test\\": "tests/",
+      "Cake\\Test\\": "vendor/cakephp/cakephp/tests/"
+    }
+  }
+}
