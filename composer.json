@@ -1,6 +1,7 @@
 {
   "name": "x-zolezzi/my-mic-plugin-cake",
   "description": "Plugin CakePHP pour MY MAKE IT CREATIVE",
+  "homepage": "https://www.makeitcreative.fr",
   "type": "cakephp-plugin",
   "license": "MIT",
   "minimum-stability": "dev",
@@ -12,12 +13,6 @@
   "autoload": {
     "psr-4": {
       "MakeItCreative\\": "src/"
-    }
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "MakeItCreative\\Test\\": "tests/",
-      "Cake\\Test\\": "vendor/cakephp/cakephp/tests/"
     }
   }
 }
