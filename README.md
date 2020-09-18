@@ -3,5 +3,5 @@
 ## Installation
 
 ```
-composer require makeitcreative/my-mic-plugin-cake
+composer require x-zolezzi/my-mic-plugin-cake
 ```
