@@ -3,8 +3,11 @@
   "description": "Plugin CakePHP for MY MAKE IT CREATIVE",
   "type": "cakephp-plugin",
   "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "version": "1.0.0",
   "require": {
-    "cakephp/cakephp": "^3.5",
+    "cakephp/cakephp": "^3.5 || ^4.0",
     "league/glide": "^1.6"
   },
   "autoload": {
