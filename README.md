@@ -7,5 +7,5 @@ composer require x-zolezzi/my-mic-plugin-cake
 ```
 
 ```
-.\bin\cake load plugin MakeItCreative
+.\bin\cake plugin load MakeItCreative
 ```
